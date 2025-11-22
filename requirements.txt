@@ -1,0 +1,10 @@
+streamlit>=1.0
+pandas>=1.3
+plotly>=5.0
+scikit-learn>=1.0
+Pillow>=8.0
+
+# Opcional (si usas IPython en notebooks):
+# ipython
+
+# Si quieres fijar versiones exactas, dímelo y las dejo pinneadas.
