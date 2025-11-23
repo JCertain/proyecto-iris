@@ -1,11 +1,11 @@
-# 🌸 IRIS SPECIES CLASSIFICATION  
+#  IRIS SPECIES CLASSIFICATION  
 ### Proyecto Final – Data Mining  
 Universidad de la Costa – CUC  
-Profesor: **José Escorcia-Gutiérrez, Ph.D.**
+Profesor: **José Escorcia Gutiérrez, Ph.D.**
 
 ---
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 Este proyecto implementa un modelo de **clasificación de especies Iris** utilizando técnicas de *Data Mining* y un *dashboard interactivo* creado con **Streamlit**.
 
@@ -20,7 +20,7 @@ Se entrenó un modelo de **Random Forest**, se evaluó con métricas estándar y
 
 ---
 
-## 🎯 Objetivos del trabajo
+##  Objetivos del trabajo
 
 ✔ Integrar los conocimientos del curso en un proyecto end-to-end  
 ✔ Aplicar un workflow completo de minería de datos  
@@ -29,7 +29,7 @@ Se entrenó un modelo de **Random Forest**, se evaluó con métricas estándar y
 
 ---
 
-## 🧠 Workflow del proyecto
+##  Workflow del proyecto
 
 ### **1. Understanding (Comprensión del dataset)**
 - Exploración del dataset Iris  
@@ -78,7 +78,7 @@ El dashboard incluye:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python  
 - Scikit-Learn  
@@ -89,10 +89,10 @@ El dashboard incluye:
 
 ---
 
-## 📦 Instalación
+##  Instalación
 
 Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd nombre-del-repo
+git clone <git@github.com:JCertain/proyecto-iris.git>
+cd proyecto-iris
